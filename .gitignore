@@ -35,11 +35,12 @@ Thumbs.db
 
 # Logs
 *.log
+*.csv
 logs/
 
 venv
 /venv
-
+*.png
 # Charts
 charts/*.png
 !charts/README.md
